@@ -6,6 +6,15 @@ commitMessages:
   commitAuthorName: "Madhurya Dutta"
   commitAuthorEmail: "97863234+madhuryadutta@users.noreply.github.com"
 
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 sites:
   - name: madhuryadutta.github.io
     url: https://madhuryadutta.github.io
