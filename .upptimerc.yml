@@ -2,10 +2,6 @@
 owner: madhuryadutta # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
-commitMessages:
-  commitAuthorName: "Madhurya Dutta"
-  commitAuthorEmail: "97863234+madhuryadutta@users.noreply.github.com"
-
 workflowSchedule:
   graphs: "*/5 * * * *"
   responseTime: "0 23 * * *"
