@@ -11,10 +11,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 92,
-    "timeWeek": 79,
-    "timeMonth": 90,
+    "timeDay": 81,
+    "timeWeek": 77,
+    "timeMonth": 89,
     "timeYear": 91,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Current Github Streak",
+    "url": "https://github-readme-stats.databytedigital.com/?user=madhuryadutta",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "slug": "current-github-streak",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 848,
+    "timeDay": 848,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {}
   }
 ]
