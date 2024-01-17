@@ -22,17 +22,19 @@
     "url": "https://github-readme-stats.databytedigital.com/?user=madhuryadutta",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "slug": "current-github-streak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1057,
-    "timeDay": 1875,
-    "timeWeek": 986,
-    "timeMonth": 987,
-    "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "time": 1058,
+    "timeDay": 1743,
+    "timeWeek": 994,
+    "timeMonth": 989,
+    "timeYear": 1058,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   }
 ]
