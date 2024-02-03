@@ -15,9 +15,9 @@ sites:
   - name: madhuryadutta.github.io
     url: https://madhuryadutta.github.io
     icon: https://madhuryadutta.github.io/assets/images/photo.jpg
-  - name:  Current Github Streak
-    url: https://github-readme-stats.databytedigital.com/?user=madhuryadutta
-    icon: https://github.githubassets.com/favicons/favicon.svg
+  # - name:  Current Github Streak
+  #   url: https://github-readme-stats.databytedigital.com/?user=madhuryadutta
+  #   icon: https://github.githubassets.com/favicons/favicon.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
