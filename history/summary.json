@@ -4,17 +4,19 @@
     "url": "https://madhuryadutta.github.io",
     "icon": "https://madhuryadutta.github.io/assets/images/photo.jpg",
     "slug": "madhuryadutta-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 118,
-    "timeWeek": 105,
+    "timeDay": 108,
+    "timeWeek": 104,
     "timeMonth": 100,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-27": 0
+    }
   }
 ]
