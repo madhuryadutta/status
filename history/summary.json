@@ -6,17 +6,17 @@
     "slug": "madhuryadutta-github-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 108,
-    "timeWeek": 104,
+    "timeDay": 104,
+    "timeWeek": 99,
     "timeMonth": 100,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 7
     }
   }
 ]
